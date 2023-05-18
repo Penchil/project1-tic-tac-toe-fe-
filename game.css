@@ -1,0 +1,30 @@
+.bg-container{
+    display: flex;
+    flex-direction: row;
+    background-color: cyan;
+    height: 100vh;
+}
+.scoreBord{
+    background-color: darksalmon;
+    display: flex;
+    flex-grow: 1;
+    border-right: 5px solid black;
+    
+    
+}
+.gaming-container{
+    background-image:linear-gradient(blue, rgb(238, 238, 231));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.main-img-container{
+    border: 5px solid orange;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height:300px;
+    border-radius: 5px;
+    
+}
